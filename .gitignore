@@ -49,4 +49,9 @@ logs/*.csv
 # Local development
 *.local
 *.bak
-*.tmp 
+*.tmp
+
+# Project specific
+backtest_results_*.csv
+bulk_backtest_results_*.csv
+*.log 
